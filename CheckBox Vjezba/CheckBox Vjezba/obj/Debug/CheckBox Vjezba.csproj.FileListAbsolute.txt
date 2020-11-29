@@ -1,0 +1,10 @@
+C:\Users\Laris\source\repos\CheckBox Vjezba\CheckBox Vjezba\bin\Debug\CheckBox Vjezba.exe.config
+C:\Users\Laris\source\repos\CheckBox Vjezba\CheckBox Vjezba\bin\Debug\CheckBox Vjezba.exe
+C:\Users\Laris\source\repos\CheckBox Vjezba\CheckBox Vjezba\bin\Debug\CheckBox Vjezba.pdb
+C:\Users\Laris\source\repos\CheckBox Vjezba\CheckBox Vjezba\obj\Debug\CheckBox Vjezba.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\CheckBox Vjezba\CheckBox Vjezba\obj\Debug\CheckBox_Vjezba.Form1.resources
+C:\Users\Laris\source\repos\CheckBox Vjezba\CheckBox Vjezba\obj\Debug\CheckBox_Vjezba.Properties.Resources.resources
+C:\Users\Laris\source\repos\CheckBox Vjezba\CheckBox Vjezba\obj\Debug\CheckBox Vjezba.csproj.GenerateResource.cache
+C:\Users\Laris\source\repos\CheckBox Vjezba\CheckBox Vjezba\obj\Debug\CheckBox Vjezba.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\CheckBox Vjezba\CheckBox Vjezba\obj\Debug\CheckBox Vjezba.exe
+C:\Users\Laris\source\repos\CheckBox Vjezba\CheckBox Vjezba\obj\Debug\CheckBox Vjezba.pdb
